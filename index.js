@@ -12,3 +12,5 @@ function hora(){
 }
 
 hora()
+
+let documeto = 31231;
